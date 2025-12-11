@@ -1,9 +1,5 @@
 # Evaluating and Enhancing the Faithfulness of Large Reasoning Models to System Prompts under Adversarial Prompt Injection
 
-**Course Project: CSE 6521 - Advanced Survey of Artificial Intelligence**
-**Author:** Zhehao Zhang (zhang.16420@osu.edu)
-**Institution:** The Ohio State University
-
 ## Overview
 
 This repository contains implementation code for evaluating Large Reasoning Models (LRMs) under adversarial prompt injection attacks and training defense mechanisms. The code evaluates 4 models across 4 benchmarks using 3 types of reasoning-based distractors, and implements defense training using Supervised Fine-Tuning (SFT) and Direct Preference Optimization (DPO).
